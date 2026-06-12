@@ -1,6 +1,6 @@
-Project: SindiThesis
+Thesis: Design and Development of a Cost-Effective Multi-Sensor Wearable System for Real-Time Biomechanical Analysis in Boxing
 
-This repository contains the files and assets for the Sindi thesis project. The top-level folders hold CAD models, electrical schematics, firmware, training data and a packaged software application. The application distributed with this repository is provided as a zip file.
+This repository contains the files and assets for the thesis. The top-level folders hold CAD models, electrical schematics, firmware, training data and a packaged software application. The application distributed with this repository is provided as a zip file.
 
 
 
