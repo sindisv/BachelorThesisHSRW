@@ -10,8 +10,8 @@ Folder summary
 * Software Application: Packaged application for the project. The file My Application.zip contains the compiled application or installers/resources. Unzip the archive (for example with Explorer, 7-Zip, or unzip) and follow the included instructions or run the extracted executable where appropriate.
 * CAD Files Fusion360: Fusion360 3D model files, STEP files and drawing exports. Subfolders separate 3D files and drawing sheets for each device/unit. These are used for enclosure and mechanical design.
 * Electrical Schematics KiCad: KiCad schematic files for each device (Device 1..4) and custom symbols. Open these with KiCad to view or modify the electrical designs and generate PCBs.
-* Training Sessions CSV Files: CSV datasets collected during training sessions. These contain recorded sensor data for specific motions and can be used for analysis, training models or evaluation.
-
+* Training Sessions CSV and XLSX Files: CSV & XLSX datasets collected during training sessions. These contain recorded sensor data for specific motions and can be used for analysis, training models or evaluation.
+* Software Machine Learning: python scripts for running, training and processing the machine learning.
 
 
 Notes
