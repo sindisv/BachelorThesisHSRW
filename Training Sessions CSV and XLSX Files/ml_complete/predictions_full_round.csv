@@ -1,0 +1,90 @@
+time_s,device,sensor,prediction,confidence,peak_mag,top2,top2_conf
+1.52,1,Left Ankle,Front Kick Left,0.277,34.6,High Kick Left,0.273
+2.69,1,Left Ankle,High Kick Left,0.283,42.4,Front Kick Left,0.253
+5.93,1,Left Ankle,Front Kick Left,0.277,46.9,High Kick Left,0.177
+7.76,1,Left Ankle,Front Kick Left,0.277,32.8,High Kick Left,0.247
+9.05,1,Left Ankle,Front Kick Left,0.42,38.0,High Kick Left,0.227
+9.29,3,Left Wrist,Jab Left,0.14,59.8,Side Kick Left,0.117
+9.45,4,Right Wrist,Cross Right,0.503,68.2,Jab Left,0.193
+10.38,1,Left Ankle,Front Kick Left,0.56,41.6,High Kick Left,0.177
+10.49,3,Left Wrist,Hook Right,0.133,126.4,Jab Left,0.117
+10.68,4,Right Wrist,Cross Right,0.427,90.2,Uppercut Left,0.113
+11.6,1,Left Ankle,Front Kick Left,0.68,43.2,High Kick Left,0.097
+11.79,3,Left Wrist,Hook Right,0.127,104.6,Side Kick Left,0.117
+12.05,4,Right Wrist,Cross Right,0.313,56.7,Jab Left,0.307
+13.04,4,Right Wrist,Hook Right,0.257,67.3,Hook Left,0.223
+13.1,1,Left Ankle,High Kick Left,0.277,40.1,Mid Kick Left,0.18
+13.25,2,Right Ankle,Front Kick Right,0.287,86.6,Side Kick Right,0.217
+14.66,1,Left Ankle,Front Kick Left,0.787,45.6,High Kick Left,0.07
+14.75,3,Left Wrist,Hook Right,0.137,104.2,Uppercut Right,0.127
+14.96,4,Right Wrist,Cross Right,0.257,65.3,Front Kick Right,0.207
+15.74,1,Left Ankle,Front Kick Left,0.42,31.2,High Kick Left,0.237
+16.13,1,Left Ankle,Front Kick Left,0.56,30.2,Mid Kick Left,0.137
+16.52,1,Left Ankle,Front Kick Left,0.627,58.3,High Kick Left,0.09
+16.97,1,Left Ankle,Front Kick Left,0.74,48.1,Mid Kick Left,0.083
+17.36,1,Left Ankle,Front Kick Left,0.607,45.3,Mid Kick Left,0.127
+17.66,3,Left Wrist,Jab Left,0.39,62.1,Side Kick Left,0.11
+17.9,1,Left Ankle,Front Kick Left,0.713,54.3,Mid Kick Left,0.123
+18.32,1,Left Ankle,Front Kick Left,0.463,41.3,High Kick Left,0.207
+18.56,4,Right Wrist,Hook Right,0.233,85.1,Uppercut Right,0.193
+19.55,1,Left Ankle,Front Kick Left,0.423,32.5,High Kick Left,0.253
+19.73,3,Left Wrist,Jab Left,0.26,76.1,Side Kick Left,0.107
+20.33,1,Left Ankle,Front Kick Left,0.713,61.3,Mid Kick Left,0.187
+21.44,1,Left Ankle,Mid Kick Left,0.273,38.1,High Kick Left,0.26
+23.03,1,Left Ankle,High Kick Left,0.27,30.0,Front Kick Left,0.203
+24.32,1,Left Ankle,Mid Kick Left,0.26,31.8,Front Kick Left,0.253
+24.68,1,Left Ankle,Mid Kick Left,0.197,59.2,Low Kick Left,0.173
+25.22,1,Left Ankle,Front Kick Left,0.277,66.5,Mid Kick Left,0.25
+26.21,1,Left Ankle,Front Kick Left,0.41,42.2,High Kick Left,0.147
+27.62,1,Left Ankle,Mid Kick Left,0.27,41.2,High Kick Left,0.253
+29.06,1,Left Ankle,High Kick Left,0.297,37.6,Low Kick Left,0.227
+29.18,3,Left Wrist,Side Kick Left,0.13,102.8,Uppercut Right,0.1
+30.26,1,Left Ankle,Front Kick Left,0.26,27.9,High Kick Left,0.207
+30.53,4,Right Wrist,Cross Right,0.47,81.7,Hook Right,0.123
+31.64,1,Left Ankle,Front Kick Left,0.633,54.2,Mid Kick Left,0.14
+31.7,3,Left Wrist,Mid Kick Right,0.107,107.4,Side Kick Left,0.107
+32.01,4,Right Wrist,Hook Right,0.343,113.7,Uppercut Right,0.203
+32.99,3,Left Wrist,Hook Left,0.127,80.7,Hook Right,0.12
+33.08,1,Left Ankle,Front Kick Left,0.52,29.6,Mid Kick Left,0.177
+33.38,1,Left Ankle,Front Kick Left,0.497,53.6,Mid Kick Left,0.187
+33.53,3,Left Wrist,Side Kick Left,0.127,55.0,Cross Right,0.11
+33.69,4,Right Wrist,Cross Right,0.42,84.0,Jab Left,0.153
+33.95,3,Left Wrist,Jab Left,0.18,130.2,Side Kick Left,0.113
+34.73,1,Left Ankle,Front Kick Left,0.593,41.7,Low Kick Left,0.123
+34.88,3,Left Wrist,Cross Right,0.143,76.6,Jab Left,0.13
+35.03,4,Right Wrist,Cross Right,0.32,108.6,Jab Left,0.2
+35.76,3,Left Wrist,Cross Right,0.183,61.5,Jab Left,0.12
+35.81,1,Left Ankle,Front Kick Left,0.57,50.6,Mid Kick Left,0.187
+37.19,1,Left Ankle,Front Kick Left,0.523,38.2,High Kick Left,0.127
+37.34,3,Left Wrist,Jab Left,0.173,75.8,Cross Right,0.113
+37.43,4,Right Wrist,Cross Right,0.283,124.6,Hook Right,0.17
+38.18,1,Left Ankle,Mid Kick Left,0.317,50.1,Front Kick Left,0.31
+38.25,4,Right Wrist,Jab Left,0.38,49.4,Cross Right,0.3
+39.11,3,Left Wrist,Hook Right,0.16,124.2,Side Kick Left,0.11
+39.23,1,Left Ankle,High Kick Left,0.37,50.2,Front Kick Left,0.307
+39.32,4,Right Wrist,Jab Left,0.32,119.1,Cross Right,0.25
+41.15,3,Left Wrist,Cross Right,0.183,58.7,Low Kick Right,0.113
+41.18,1,Left Ankle,High Kick Left,0.29,58.8,Mid Kick Left,0.287
+41.63,1,Left Ankle,Low Kick Left,0.32,28.9,High Kick Left,0.263
+43.4,1,Left Ankle,Front Kick Left,0.66,55.1,Mid Kick Left,0.113
+43.43,3,Left Wrist,Jab Left,0.35,64.0,Side Kick Right,0.113
+44.42,3,Left Wrist,High Kick Right,0.13,68.0,Hook Right,0.11
+44.43,1,Left Ankle,Front Kick Left,0.437,42.3,High Kick Left,0.197
+44.63,4,Right Wrist,Uppercut Right,0.267,114.9,Hook Right,0.237
+44.97,3,Left Wrist,Uppercut Right,0.153,84.1,Hook Left,0.117
+45.44,1,Left Ankle,Front Kick Left,0.257,35.8,High Kick Left,0.207
+45.68,4,Right Wrist,Cross Right,0.287,77.8,Hook Right,0.193
+46.46,3,Left Wrist,Jab Left,0.137,101.9,Side Kick Left,0.123
+47.03,1,Left Ankle,Front Kick Left,0.55,37.9,High Kick Left,0.167
+47.72,3,Left Wrist,Low Kick Right,0.147,106.4,Hook Left,0.113
+48.1,1,Left Ankle,Front Kick Left,0.243,34.4,High Kick Left,0.217
+48.14,3,Left Wrist,Side Kick Left,0.153,94.3,Cross Right,0.13
+48.29,4,Right Wrist,Cross Right,0.283,115.9,Hook Right,0.24
+50.9,1,Left Ankle,Front Kick Left,0.457,50.0,Mid Kick Left,0.237
+52.52,1,Left Ankle,High Kick Left,0.333,35.3,Front Kick Left,0.177
+53.21,1,Left Ankle,Front Kick Left,0.47,34.1,Mid Kick Left,0.217
+53.66,1,Left Ankle,Front Kick Left,0.69,56.2,High Kick Left,0.077
+54.08,1,Left Ankle,Front Kick Left,0.553,65.9,Mid Kick Left,0.16
+54.47,1,Left Ankle,Front Kick Left,0.387,35.2,High Kick Left,0.273
+54.86,4,Right Wrist,Cross Right,0.373,55.5,Jab Left,0.26
+55.62,1,Left Ankle,Front Kick Left,0.357,41.3,High Kick Left,0.223
