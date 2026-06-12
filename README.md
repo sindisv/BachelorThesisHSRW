@@ -59,3 +59,11 @@ Notes: Open these in KiCad to inspect or export BOM/PCB layouts. Be aware of the
 * Device1Uppercut.csv, Device1hookfront.csv, Device3Jab.csv, Device3uppercut.csv, Boxinghookdevice3.csv
 Notes: These CSV files contain recorded sensor traces from devices during motion sessions. They can be loaded into Python, MATLAB, or Excel for analysis and model training.
 
+6. Software Machine Learning
+There is a dedicated Machine Learning workspace under "Software Machine Learning/Software Machine Learning" and processed ML outputs under "Training Sessions CSV and XLSX Files/ml_complete". This area contains scripts to label data, extract features, train classifiers and produce evaluation outputs used in the thesis.
+Important scripts (Software Machine Learning/Software Machine Learning):
+ - label_boxing_data.py — helpers for labeling events/windows in raw sensor traces
+ - preprocess.py — feature extraction and dataset assembly (produces ml_data/features_all.csv)
+ - train_model.py — training pipeline: trains multiple classifiers, evaluates with cross-validation, generates plots and saves the best model
+ - quick_analysis.py — small exploratory analysis and plotting utilities
+ - boxing_analysis_complete6.py — more comprehensive analysis script used for experiments
